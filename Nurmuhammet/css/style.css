@@ -1,0 +1,21 @@
+.bg-image1 {
+    background-image: url('../img/working-girl.png');
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.bg-image2 {
+    background-image: url('../img/contact-bg.jpg');
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.header-margin-bottom {
+    margin-bottom: 16rem;
+}
+.header-margin-top {
+    margin-top: -16rem;
+}
